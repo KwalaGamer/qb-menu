@@ -3,6 +3,8 @@ Menu System for the QBCore Framework
 
 This is a modified version of **[QB-MENU](https://github.com/qbcore-framework/qb-menu)** by **[QBCore](https://github.com/qbcore-framework)**
 
+**[qb-garages](https://github.com/KwalaGamer/qb-garages)** -- Coming Soon
+
 --[[
 EXAMPLE MENU
 --]]
