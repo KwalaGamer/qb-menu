@@ -4,8 +4,11 @@ Menu System for the QBCore Framework
 This is a modified version of **[QB-MENU](https://github.com/qbcore-framework/qb-menu)**
 
 **[Preview](https://youtu.be/dDNq-PfyDEo)** -- Check it out
-
 **[qb-garages](https://github.com/KwalaGamer/qb-garages)** -- Coming Soon
+
+You Can Make My Day By Donating Some Money To Me Via
+
+Paypal - @itzkwala
 
 # License
 
