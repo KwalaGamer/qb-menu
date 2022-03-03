@@ -1,8 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'QB-Menu'
-version '0.0.1'
+author 'QBCore'
+description 'QB-Menu CSS Edit'
+version 'v1.0'
 
 client_script 'client/main.lua'
 
