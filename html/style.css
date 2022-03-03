@@ -75,7 +75,7 @@ body::-webkit-scrollbar {
       rgba(255, 0, 0, 0.514),
       transparent
     );
-    transition: all 650ms;
+    transition: all 1500ms;
 }
   
 .button:hover:before {
