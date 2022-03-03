@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'QBCore'
-description 'QB-Menu CSS Edit'
-version 'v1.0'
+description 'QB-Menu CSS Edit | Fixed Effect Going Fast..'
+version 'v1.1'
 
 client_script 'client/main.lua'
 
