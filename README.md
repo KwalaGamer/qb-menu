@@ -10,7 +10,7 @@ This is a modified version of **[QB-MENU](https://github.com/qbcore-framework/qb
 
 
 You Can Make My Day By Donating Some Money To Me Via
-Paypal - @itzkwala
+**[Paypal](https://paypal.me/kwalaXD?country.x=IN&locale.x=en_GB)**
 
 # License
 
