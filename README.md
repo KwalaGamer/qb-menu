@@ -6,10 +6,8 @@ This is a modified version of **[QB-MENU](https://github.com/qbcore-framework/qb
 
 **[qb-garages](https://github.com/KwalaGamer/qb-garages)** -- Coming Soon |
 
-
-
-
-You Can Make My Day By Donating Some Money To Me Via
+# Donation
+You Can Make My Day By Giving Some Money To Me Via
 **[Paypal](https://paypal.me/kwalaXD?country.x=IN&locale.x=en_GB)**
 
 # License
